@@ -1,0 +1,7 @@
+/quick-data/node_modules
+/quick_data_backend/node_modules
+/quick-data/.env
+/quick_data_backend/.env
+
+.env
+
